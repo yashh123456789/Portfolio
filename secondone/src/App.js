@@ -4,6 +4,7 @@ import {Banner} from "../src/Components/Banner";
 import {Projects} from "../src/Components/Projects";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Contact } from "../src/Components/Contact";
+import {Footer} from "../src/Components/Footer";
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
       <Banner/>
       <Projects/>
       <Contact/>
+      <Footer/>
 
 
     </div>
